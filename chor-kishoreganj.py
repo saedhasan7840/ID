@@ -521,7 +521,7 @@ def meyexudi():
   except:
     sys.exit()
 meyexudi()
-#os.system("python RIDOY.py")
+#os.system("python chor-kishoreganj.py")
 def naima():
 	print('-------------------')
 print(logo)
@@ -635,7 +635,7 @@ def menu():
         crack_file()
     elif HEART in ['B','b']:
         os.system('xdg-open https://www.facebook.com/XcwRidoy')
-        os.system("python nono.py")
+        os.system("python chor-kishoreganj.py")
     elif HEART in ['C','c']:
         result()
     elif HEART in ['E']:
